@@ -247,7 +247,7 @@ def CLUB(data,club_list):
     elif st.button("SUBMIT"):
         col1, col2 = st.columns(2)
         col1.write("Club's Logo")
-        col2.image(data1.iloc[0]['club_logo_url'])
+        col2.image(data1.iloc[1]['club_logo_url'])
         st.markdown("<br>", unsafe_allow_html=True)
 
         number_of_players = playerscount(data1)
@@ -307,7 +307,7 @@ def COUNTRY(data,country_list):
 
         col1, col2 = st.columns(2)
         col1.write("National Team's Logo")
-        col2.image(data1.iloc[0]['nation_logo_url'])
+        col2.image(data1.iloc[1]['nation_logo_url'])
         st.markdown("<br>", unsafe_allow_html=True)
 
         # COUNT OF PLAYERS FROM A COUNTRY
