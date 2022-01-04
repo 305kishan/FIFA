@@ -337,7 +337,7 @@ def main():
     analysisof = radiobutton_analysisof()
     club_list, country_list, player_list = create_list(data)
     nav_page(club_list, country_list, player_list)
-    main_page()
+    
     if analysisof == "Club":
         CLUB(data,club_list)
     elif analysisof =="Country":
