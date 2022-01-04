@@ -2,7 +2,7 @@
 
 Web Application for Teams (Clubs & Countries) Analysis in FIFA Video Games. <br>
 ---
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/305kishan/)
+# [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/305kishan/)
 <br>
 ---
 # [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fifa-analysis.herokuapp.com/)<br>
