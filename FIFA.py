@@ -9,7 +9,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 
-from FIFA20 import country
 matplotlib.use("Agg")
 import seaborn as sns
 
