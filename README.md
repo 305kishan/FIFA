@@ -1,6 +1,8 @@
 # FIFA Analysis
 
-### Web Application for Teams (Clubs & Countries) Analysis in FIFA Video Games. <br>
+Web Application for Teams (Clubs & COuntries) Analysis in FIFA Video Games (2015 - 2022).
+
+Application hosted on Heroku Cloud.
 ---
  [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/305kishan/)
 ---
