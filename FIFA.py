@@ -295,7 +295,7 @@ def COUNTRY(data,country_list):
     st.header("COUNTRY ANALYSIS")
     st.markdown("<br>", unsafe_allow_html=True)
 
-    input_country = st.text_input("Enter A Country Name","India")
+    input_country = st.text_input("Enter A Country Name","Spain")
     data1 = data[(data['nationality_name']).str.lower() == input_country.lower()][["short_name", "overall", "potential", "value_eur", "wage_eur", "age", "dob", "height_cm", "weight_kg", "nationality_name", "player_positions", "nation_jersey_number", "preferred_foot", "weak_foot", "skill_moves", "international_reputation", "body_type", "real_face", "player_tags", "player_face_url", "nation_logo_url", "nation_flag_url"]]
     data1 = data1.reset_index(drop=True)
     country_list_lower = [item.lower() for item in country_list]
@@ -305,9 +305,9 @@ def COUNTRY(data,country_list):
         
     elif st.button("SUBMIT"):
 
-        col1, col2 = st.columns(2)
-        col1.write("National Team's Logo")
-        col2.image(data1.iloc[1]['nation_logo_url'])
+        #col1, col2 = st.columns(2)
+        #col1.write("National Team's Logo")
+        #col2.image(data1.iloc[1]['nation_logo_url'])
         st.markdown("<br>", unsafe_allow_html=True)
 
         # COUNT OF PLAYERS FROM A COUNTRY
