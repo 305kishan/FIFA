@@ -1,6 +1,6 @@
-# FIFA20-Analysis
+# FIFA Analysis
 
-Web Application for Teams (Clubs & Countries) Analysis in FIFA 20 Video Game. <br>
+Web Application for Teams (Clubs & Countries) Analysis in FIFA Video Games. <br>
 ---
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/305kishan/)
 <br>
