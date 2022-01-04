@@ -5,8 +5,8 @@ Web Application for Teams (Clubs & Countries) Analysis in FIFA 20 Video Game. <b
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/305kishan/)
 <br>
 ---
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://analysis-fifa20.herokuapp.com/)<br>
-Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.herokuapp.com/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fifa-analysis.herokuapp.com/)<br>
+<h2>Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://fifa-analysis.herokuapp.com/)</h2>
 
 
 ## Table of Content
